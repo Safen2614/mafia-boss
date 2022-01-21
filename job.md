@@ -2,4 +2,4 @@
 
 ## [Send more people to fix it](bankrupt.md)
 
-## [Let it be](oppurtunity.md ) 
+## [Let it be](oppurtunity.md )
