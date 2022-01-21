@@ -1,0 +1,1 @@
+## [You mourn the loss of your second in command and without his help in setting things up the mafia falls apart](falls-apart.md)
