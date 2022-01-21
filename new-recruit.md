@@ -1,5 +1,5 @@
 Makes 300K on his first job.
 
-#[spend](spend.md)
+#[spend](bankrupt.md)
 
-#[save](save.md)
+#[save](money.md)
