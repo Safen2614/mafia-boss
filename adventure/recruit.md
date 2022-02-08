@@ -1,3 +1,3 @@
 # [accept](new-recruit.md)
 
-# [reject](funeral)
+# [reject](funeral.md)
