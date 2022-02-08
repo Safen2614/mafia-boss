@@ -1,6 +1,6 @@
 # mafia-boss
 
-# youre a mafia boss you have to make chooses to be the riches mafia
+# this project was to help me practice linking flie to flie, working with other people and for me to make my own adventure for fun. 
 
 # [start](adventure/wake-up.md)
 
