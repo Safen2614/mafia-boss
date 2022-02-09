@@ -9,7 +9,7 @@
 
 [Safe Nasher](https://github.com/Safen2614)
 
-[Hasib Hossain](https;//github.com/hasibh0960)
+[Hasib Hossain](https://github.com/hasibh0960)
 
 [Josiah Benitez](https://github.com/josiahb7308)
 
